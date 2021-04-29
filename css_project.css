@@ -1,0 +1,110 @@
+
+body{
+background-color:LavenderBlush;
+font-family:Helvetica, Arial, sans-serif;
+}
+
+h1{
+	padding:10px;
+	background-color:LightPink;
+	color:black;
+	text-align:center;
+}
+
+#p1{
+	color:#2F4F4F;
+}
+
+#image1{
+	float:right;
+	height:177px;
+	width:300px;
+}
+#image2{
+	float:right;
+	height:180px;
+	width:300px;
+}
+
+.selected{
+	color:#2F4F4F;
+}
+
+.p2{
+	color:#2F4F4F;
+}
+
+.p3{
+	color:#2F4F4F;
+}
+
+.p4{
+	color:#2F4F4F;
+}
+
+.p5{
+	color:#2F4F4F;
+}
+
+.p6{
+	color:#2F4F4F;
+}
+
+#adv{
+	background-color:LightPink;
+	color:black;
+}
+
+#dis{
+	background-color:LightPink;
+	color:black;
+}
+#hello{
+	background-color:LightPink;
+	color:black;
+}
+#table{
+	background-color:LightPink;
+	color:black;
+}
+
+#t1{
+	width:100%;
+}
+
+table,th,td{
+	border:1px solid black;
+	 border-collapse: collapse;
+}
+
+th,td{
+	padding: 5px;
+  text-align:center;
+}
+
+table#t1 tr:nth-child(even) {
+  background-color: MistyRose;
+}
+
+table#t1 tr:nth-child(odd) {
+ background-color:LightPink;
+}
+
+table#t1 th {
+	font-weight:bold;
+  background-color: LightCoral;
+  color: black;
+}
+
+#footer{
+	font-weight:bold;
+	clear:both;
+	padding:10px;
+	background-color:LightPink;
+	color:black;
+	text-align:right;
+}
+	
+	
+	
+	
